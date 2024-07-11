@@ -1,6 +1,10 @@
 # amazon
 
-A new Flutter project.
+backend application for this project is created in nodejs and saved in another repository and hosted on railway
+
+- server github URL
+- https://github.com/nikhil-chourase/amazon-server.git
+- 
 
 ## Getting Started
 
